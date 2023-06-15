@@ -7,7 +7,7 @@
 Clear your head, find inspiration, breathe. :handball_person:
 
 
-This is a dashboard tab app that embed a canvas containing multiple cards that provide an overview of data or content in Microsoft Teams. :climbing_woman:
+This is a dashboard tab app that embed a canvas containing multiple cards that provide an overview of data Easily track all the different activities for your exercise routines (strength training, cardio, etc.) Then check out the overview tab to see a handy chart . :climbing_woman:
  
 *Dashboard* goal is to make this easier, by incentivizing you to take breaks with other people. :weight_lifting_man:
 
