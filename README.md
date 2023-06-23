@@ -23,3 +23,20 @@ watch a demo: https://tab375bde.z13.web.core.windows.net
 
 
 :speaker: ### This is the starting point for my project. However, because of lack of enough time I am not able to finish this app completely. :speaker:
+
+
+
+
+
+
+</br>
+</br>
+</br>
+
+---
+***REFERENCES:*** 
+
+:sparkling_heart: The Microsoft Teams Global Hack :sparkling_heart:
+
+:point_right: https://devblogs.microsoft.com/microsoft365dev/join-us-for-hacktogether-the-microsoft-teams-global-hack/ :white_check_mark:
+
